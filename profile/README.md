@@ -20,6 +20,17 @@ Please check individual repositories for contribution guidelines.
 
 ---
 
+## Contact
+
+PVOT OSS is developed and published by **Prauga**.
+
+- **Email:** [developer@prauga.com](mailto:developer@prauga.com)
+- **Website:** https://prauga.com
+
+For bugs and feature requests, please open an issue in the relevant repository.
+
+---
+
 ## Community
 
 Join the PVOT OSS community on Telegram:
